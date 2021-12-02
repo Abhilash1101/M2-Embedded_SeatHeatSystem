@@ -70,3 +70,5 @@ The digitized temperature input is visualized using Pulse Width Modulation.
 
 ## Badges
 [![C/C++ CI](https://github.com/Abhilash1101/M2-Embedded_SeatHeatSystem/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Abhilash1101/M2-Embedded_SeatHeatSystem/actions/workflows/c-cpp1.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/Abhilash1101/M2-Embedded_SeatHeatSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Abhilash1101/M2-Embedded_SeatHeatSystem/actions/workflows/gitinspector.yml)
